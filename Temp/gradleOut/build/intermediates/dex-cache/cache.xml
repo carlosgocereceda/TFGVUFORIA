@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="false"
+        jar="C:\Users\carlo\.gradle\caches\transforms-1\files-1.1\core-1.4.0.aar\5c9d7dbb0b78ae1cc74ac39a800d089a\jars\classes.jar"
+        jumboMode="false"
+        min-sdk-version="16"
+        optimize="true"
+        revision="28.0.3"
+        sha1="c6708d52cbc1c71eec3f91a2cf8fec59592c6350">
+        <dex dex="C:\Users\carlo\OneDrive\Documentos\vuforia samples\Temp\gradleOut\build\intermediates\transforms\preDex\release\2.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\carlo\.gradle\caches\transforms-1\files-1.1\VuforiaWrapper.aar\934519d1105a5754af5325ab8b6839bc\jars\libs\Vuforia.jar"
+        jumboMode="false"
+        min-sdk-version="16"
+        optimize="true"
+        revision="28.0.3"
+        sha1="5d20fc1ee41915234d6e74afcaec9ba74ed63923">
+        <dex dex="C:\Users\carlo\OneDrive\Documentos\vuforia samples\Temp\gradleOut\build\intermediates\transforms\preDex\release\4.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\carlo\.gradle\caches\transforms-1\files-1.1\VuforiaWrapper.aar\934519d1105a5754af5325ab8b6839bc\jars\classes.jar"
+        jumboMode="false"
+        min-sdk-version="16"
+        optimize="true"
+        revision="28.0.3"
+        sha1="d46bca2836cb936675a51f8d54e3402015d835cb">
+        <dex dex="C:\Users\carlo\OneDrive\Documentos\vuforia samples\Temp\gradleOut\build\intermediates\transforms\preDex\release\3.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\carlo\OneDrive\Documentos\vuforia samples\Temp\gradleOut\libs\unity-classes.jar"
+        jumboMode="false"
+        min-sdk-version="16"
+        optimize="true"
+        revision="28.0.3"
+        sha1="cbcda9c3a973bf6fa88272a5a8459e88bfbd0bd6">
+        <dex dex="C:\Users\carlo\OneDrive\Documentos\vuforia samples\Temp\gradleOut\build\intermediates\transforms\preDex\release\1.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\carlo\.gradle\caches\transforms-1\files-1.1\VuforiaWrapper.aar\934519d1105a5754af5325ab8b6839bc\jars\libs\VuforiaUnityPlayer.jar"
+        jumboMode="false"
+        min-sdk-version="16"
+        optimize="true"
+        revision="28.0.3"
+        sha1="31de12dfd4ff409d57dd52142cd5ebe1c1eee803">
+        <dex dex="C:\Users\carlo\OneDrive\Documentos\vuforia samples\Temp\gradleOut\build\intermediates\transforms\preDex\release\5.jar" />
+    </item>
+
+</items>

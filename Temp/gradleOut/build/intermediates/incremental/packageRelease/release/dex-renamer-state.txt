@@ -1,0 +1,4 @@
+#Wed Jan 09 12:52:16 CET 2019
+base.0=C\:\\Users\\carlo\\OneDrive\\Documentos\\vuforia samples\\Temp\\gradleOut\\build\\intermediates\\transforms\\dex\\release\\0
+path.0=classes.dex
+renamed.0=classes.dex
